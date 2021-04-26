@@ -1,1 +1,38 @@
-
+.text {
+  font-family:'Courier New', Courier, monospace;
+  text-align:center;
+}
+.GoFar {
+  background-color: rgb(10, 100, 210);
+  color:#00ff2a;
+  font-size:30px;
+  font-weight:boldest;
+}
+.picture {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+#serve {
+  text-align:left;
+  font-size:15px;
+}
+.heading {
+  font-weight:bold;
+  font-family:arial;
+  font-size:30px;
+}
+hr {
+   border:0;
+   margin:0;
+  width:100%; 
+  height:2px; 
+ background: rgb(10, 100, 210);
+   }
+.info {
+  color:rgb(10, 100, 210);
+}
+.word {
+  color: rgb(10, 100, 210);
+  font-weight: bold;
+}
